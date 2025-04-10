@@ -1,4 +1,4 @@
-# Um projeto construído através da maratona Explorer da @Rocketseat para treinar as tecnologias HTML, CSS.
+# Um projeto construído através da ideia do Linktree.
 
 ## Demonstração
 
