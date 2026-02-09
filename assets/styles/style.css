@@ -18,8 +18,7 @@ a {
 }
 
 body {
-  background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  background: #1C1C1D;
   color: var(--text-color);
   font-family: 'Roboto', sans-serif;
 }
@@ -34,7 +33,7 @@ img.avatar {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  border: var(--bg-color) solid 4px;
+  border: var(--bg-color) solid 2px;
   padding: 3.7px;
 }
 
